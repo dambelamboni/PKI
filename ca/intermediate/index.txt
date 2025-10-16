@@ -1,0 +1,5 @@
+V	251208175013Z		01	unknown	/C=FR/ST=Seine-Maritime/O=M2_SSI/CN=smime-client.m2ssi_tp4
+V	251208175028Z		02	unknown	/C=FR/ST=Seine-Maritime/O=M2_SSI/CN=server.m2ssi_tp4
+V	251208175034Z		03	unknown	/C=FR/ST=Seine-Maritime/O=M2_SSI/CN=ipsec-client.m2ssi_tp4
+V	251208175038Z		04	unknown	/C=FR/ST=Seine-Maritime/O=M2_SSI/CN=openvpn-client.m2ssi_tp4
+R	251208204704Z	241208205335Z	05	unknown	/C=FR/ST=Seine-Maritime/O=M2_SSI/CN=revoked-user.m2ssi_tp4
